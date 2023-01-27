@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**TomyPY/TomyPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer with a focus on backend development. I am currently studying backend programming, and working as a freelance developer, creating bots for Telegram, Discord, and Slack. I am proficient in languages such as Python, Node.js and Go. I have some experience developing RESTful APIs with Go and Node.js. I am currently taking a course in CoderHouse for backend programming, but I am also self-taught and enjoy reading and learning about new technologies.
 
-Here are some ideas to get you started:
+## 🌱 Skills
+⚡ Python
+⚡ NodeJS
+⚡ Go
+⚡ Telegram, Discord and Slack bots
+⚡ Self-taught
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+You can contact me via email at tomastorresdevv@gmail.com
