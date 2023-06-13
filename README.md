@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a software developer with a focus on backend development. I am currently studying backend programming, and working as a freelance developer, creating bots for Telegram, Discord, and Slack. I am proficient in languages such as Python, Node.js and Go. I have some experience developing RESTful APIs with Go and Node.js. I am currently taking a course in CoderHouse for backend programming, but I am also self-taught and enjoy reading and learning about new technologies.
+I am a software developer with a focus on backend development. I am currently working as software developer at Mercado Libre using languages like Golang and Java. I also have experience creating bots for Telegram, Discord, and Slack. I am proficient in languages such as Python, Node.js and Go. I have experience developing RESTful APIs with Go, Node.js and Java. I am currently taking a course in CoderHouse of backend programming, but I am also self-taught and enjoy reading and learning about new technologies.
 
 ## 🌱 Skills
 - ⚡ Python
@@ -10,4 +10,4 @@ I am a software developer with a focus on backend development. I am currently st
 - ⚡ Self-taught
 
 ## 📫 Contact
-You can contact me via email at tomastorresdevv@gmail.com
+You can contact me via email at tomastorres003@hotmail.com
